@@ -1,4 +1,6 @@
-# dadjokes
+# Dad Jokes
+Aplicação NuxtJS que utiliza uma API icanhazdadjoke que retorna piadas sem graça comuns de serem feitas por pais.
+
 
 ## Build Setup
 
